@@ -1,4 +1,4 @@
-=== Woo Addons Cart Editable ===
+=== Woo Product Addons Cart Editable Fields ===
 Contributors: Webby Scots
 Donate link: https://paypal.me/webbyscots/
 Tags: WooCommerce, Cart, Product Addons
